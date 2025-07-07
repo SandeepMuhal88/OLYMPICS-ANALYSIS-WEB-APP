@@ -9,4 +9,4 @@ st.sidebar.radio(
 )
 
 
-st.dataframe
+st.dataframe(df)
